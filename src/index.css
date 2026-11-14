@@ -2,6 +2,10 @@
 
 @theme {
   --color-ink: #0A0A0F;
+  --color-panel: #12121a;
   --color-brand: #2563EB;
   --color-brand-light: #60A5FA;
 }
+
+html { scroll-behaviour: smooth;  }
+body{ @apply bg-ink text-white antialiased; font-family: system-ui, sans-serif; }
