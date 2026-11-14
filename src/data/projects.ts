@@ -15,7 +15,7 @@ export const projects: Project[] = [
         description:"This is my personal porfolio made into a website to showcase my skills as a programmer and to excercise my web development skills. It is made with React, TailwindCSS and Vite.",
         learned: " I learned how to create and deploy a website using React, TailwindCSS and Vite. I also learned how to use Netlify  to host my website.",
         tags: ["React", "TailwindCSS", "Vite", "Netlify "],
-        banner: "/public/projects/project-one.png",
+        banner: "./projects/project-one.png",
         github: "https://github.com/Troy-Simpson-TJ/portfolio",
         live: "https://troyportfoliowebapp.netlify.app/"
     }
