@@ -23,7 +23,7 @@ export default function Header() {
       <header className="mx-auto flex min-h-[80vh] max-w-5xl flex-col justify-center px-6">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.7 }}>
           <p className="mb-4 text-brand-light">Hi, my name is</p>
-          <h1 className="text-5xl font-bold sm:text-7xl">Troy Simpsion.</h1>
+          <h1 className="text-5xl font-bold sm:text-7xl">Troy Simpson.</h1>
           <h2 className="mt-3 text-3xl text-white/60 sm:text-5xl">I learn fast and build across tech.</h2>
           <p className="mt-6 max-w-xl text-white/70">
             A growing software developer curious about multiple fields of tech. 
