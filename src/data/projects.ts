@@ -18,5 +18,15 @@ export const projects: Project[] = [
         banner: "./projects/project-one.png",
         github: "https://github.com/Troy-Simpson-TJ/portfolio",
         live: "https://troyportfoliowebapp.netlify.app/"
+    },
+
+    {
+        title: "Pixel Dex",
+        description:"This is a music player that is an android application I made using Android Studio, Java and XML. It is a music player that can play local music files and has a simple and clean user interface.",
+        learned: "I learned how to create an android application using Android Studio, Java and XML. I also learned how to implement a simple and clean user interface.",
+        tags: ["Android", "Java", "XML"],
+        banner: "./projects/project-two.png",
+        github: "https://github.com/Troy-Simpson-TJ/pixel-dex",
+        live: "https://example.com/pixel-dex"
     }
 ]
