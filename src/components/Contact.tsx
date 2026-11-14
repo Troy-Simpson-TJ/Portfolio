@@ -20,7 +20,7 @@ export default function Contact() {
         </div>
       </Section>
       <footer className="border-t border-white/10 py-6 text-center text-sm text-white/40">
-        © {new Date().getFullYear()} Your Name
+        © {new Date().getFullYear()} Troy Simpson
       </footer>
     </>
   );
